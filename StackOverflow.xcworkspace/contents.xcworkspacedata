@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SingleViewBasic/SingleViewBasic.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CommandLine/CommandLine.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CollectionView/CollectionView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Tableview/Tableview.xcodeproj">
+   </FileRef>
+</Workspace>
